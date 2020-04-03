@@ -1,3 +1,7 @@
+Modified version of blomsd tft35 cnc firmware to work with the tft24 v1.1
+Only the zipped tft24 folder is my modified version
+
+
 # MPCNC-TFT35-V2.0
 Custom firmware for the BigTreeTech TFT35 V2.0 for use with the MPCNC
 
